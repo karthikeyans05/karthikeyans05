@@ -1,4 +1,4 @@
-# Hey, I'm Karthikeyan Sivakumar 👋
+# Hey, I'm Karthikeyan S 👋
 
 **Full Stack Developer · Android & AI/ML Engineer · Cloud Builder**  
 B.Tech (Hons) IT – Advanced Web Development @ SMVEC, Puducherry | Class of 2027
