@@ -1,6 +1,6 @@
 <div align="center">
 
-# Karthikeyan Sivakumar
+# Karthikeyan S
 ### Full Stack Developer · Cloud Engineer · AI/ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karthikeyasiva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyasiva/)
